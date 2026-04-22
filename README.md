@@ -38,3 +38,12 @@ This project was designed to be executed in a **GPU-enabled environment**. To en
 > ⚠️ Make sure that Colab is set to use a **GPU runtime** (`Runtime → Change runtime type → GPU`).
 
 ---
+
+## 📄 Project Report
+
+A detailed project report is available in this repository:  
+👉 [**project_report.pdf**](./project_report.pdf)
+
+The report covers the project motivation, methodology, experimental setup, results, and analysis in full detail.
+
+---
